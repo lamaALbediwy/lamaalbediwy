@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
-- 👯 I’m looking to collaborate on **HTML and CSS**
+- 👯 I’m looking to collaborate on **Project's**
 
-- 🤝 I’m looking for help with **Java Script**
+- 🤝 I’m looking for help with **Java Script HTML and CSS**
 
 - 💬 Ask me about **java, C**
 
