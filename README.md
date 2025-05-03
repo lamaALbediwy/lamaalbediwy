@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Project's**
 
-- 🤝 I’m looking for help with **Java Script HTML and CSS**
-
 - 💬 Ask me about **UI/UX Design - figma
  Programming Languages: Java,
  Python, C, Dart
