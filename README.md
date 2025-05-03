@@ -12,11 +12,15 @@
 
 - 🤝 I’m looking for help with **Java Script HTML and CSS**
 
-- 💬 Ask me about **java, C**
+- 💬 Ask me about **UI/UX Design - figma
+ Programming Languages: Java,
+ Python, C, Dart
+ Web Development: HTML, CSS,
+ JavaScript, PHP, MySQL**
 
 - 📫 How to reach me **Albediwyy.lama@outlook.com**
 
-- ⚡ Fun fact **i think i will not get enough of learning**
+- ⚡ Fun fact **a Copmuter Scientist will not get enough of learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
