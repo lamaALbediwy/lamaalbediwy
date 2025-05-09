@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm lama albediwy</h1>
+<h1 align="center">Hi 👋, I'm lama</h1>
 <h3 align="center">Copmuter Scientist</h3>
 <img align="right" alt="Coding" width="400" src=https://i.gifer.com/JXA0.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamaalbediwy&label=Profile%20views&color=0e75b6&style=flat" alt="lamaalbediwy" /> </p>
 
-- 🔭 I’m currently working on **Flutter Project**
+- 🔭 I’m currently working on **Fever Monitoring with Thermal Cameras for Temperature Risk Assessment and Alerts**
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Project's**
-
-- 💬 Ask me about **UI/UX Design - figma
+- 💬 Ask me about **UI/UX -
  Programming Languages: Java,
  Python, C, Dart
  Web Development: HTML, CSS,
